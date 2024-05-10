@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+.userList {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    border: 5px solid #6C92AF;
+    border-radius: 30px;
+    background: #D7D7D7;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
+}
